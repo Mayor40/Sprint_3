@@ -1,0 +1,6 @@
+courier\CourierClient.class
+courier\CourierCredentials.class
+courier\RestAssuredClient.class
+courier\Courier.class
+courier\Order.class
+courier\OrderClient.class
